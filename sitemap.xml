@@ -5,5 +5,8 @@
     <lastmod>2017-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ceins.com/images/q2212.png</image:loc>
+    </image:image>
   </url>
 </urlset>
