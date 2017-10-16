@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ceins.com" resolutions="1x" timestamp="1508157474875">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ceins.com" resolutions="1x" timestamp="1508156157778">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4087019619" ref="index"/>
+    <file name="index.css" crc="66993265" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,10 +13,12 @@
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u336-4.png" crc="490446296" ref="index"/>
-    <file name="天冷了.jpg" crc="347337857" ref="index">
+    <file name="u145-4.png" crc="159859086" ref="index"/>
+    <file name="u149-4.png" crc="4124283616" ref="index"/>
+    <file name="u272-4.png" crc="381337214" ref="index"/>
+    <file name="blue ceins.jpg" crc="468502551" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4194042069" seo="true" mt="1508157454894" redirect="true"/>
+  <file name="index.html" crc="4186474158" seo="true" mt="1508156123569" redirect="true"/>
 </manifest>
