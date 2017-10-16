@@ -1,1 +1,1 @@
-www.ceinsgrimm.com
+ceinsgrimm.com
